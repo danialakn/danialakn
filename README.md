@@ -37,6 +37,14 @@ PostgreSQL | MySQL
 
 ---
 
+
+## 📜 Certificates  
+
+- 🐳 **[Docker for Engineers and DevOps Programmers](https://maktabkhooneh.org/certificates/MK-5UR87S)**  
+- 🐍 **[Advanced Python Programming](https://maktabkhooneh.org/certificates/MK-UO90MU)**  
+- 👁️ **[Machine Vision and Image Processing with OpenCV](https://maktabkhooneh.org/certificates/MK-7LQHI7)**  
+- 🔧 **[Certificate of Git and GitHub](https://faradars.org/verify/AD1C6C49?lang=en)**  
+
 ---
 
 ## 🏆 Highlights  
